@@ -31,5 +31,5 @@ In my opinion, the transition from SQL to NoSQL is highly beneficial for organiz
 - Processing Models: Integrating Map-Reduce or other modern data processing tools could further optimize how insights are extracted from these large datasets.
 
 ## References
-    • Goli-Malekabadi, Z., Sargolzaei-Javan, M., & Akbari, M. K. (2016). An effective model for store and retrieve big health data in cloud computing. Computer Methods and Programs in Biomedicine, 132(1), 75-82. http://dx.doi.org/10.1016/j.cmpb.2016.04.016
-    • MongoDB, Inc. (n.d.). Sharding in MongoDB. https://www.mongodb.com/basics/sharding
+- Goli-Malekabadi, Z., Sargolzaei-Javan, M., & Akbari, M. K. (2016). An effective model for store and retrieve big health data in cloud computing. Computer Methods and Programs in Biomedicine, 132(1), 75-82. http://dx.doi.org/10.1016/j.cmpb.2016.04.016
+- MongoDB, Inc. (n.d.). Sharding in MongoDB. https://www.mongodb.com/basics/sharding
